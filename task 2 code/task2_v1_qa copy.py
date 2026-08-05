@@ -9,7 +9,6 @@ It takes the post as the question and the article as the context, and predicts
 two positions: where the spoiler starts and where it ends. The text in between
 is the answer. It never writes anything new, it only points.
 
-val METEOR 0.4565 / Kaggle public 0.45647
 """
 
 import collections
