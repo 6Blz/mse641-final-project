@@ -8,8 +8,6 @@ Two models now.
    segments at the median, so this gives them a lot more to learn from.
 2. A new roberta-base classifier that reads the post and the title and says
    which kind of spoiler this is: phrase, passage, or multi.
-
-val METEOR 0.5192 / Kaggle public 0.45287 
 """
 
 import collections
