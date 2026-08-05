@@ -8,7 +8,6 @@ First, it's trained three times with different seeds and the three sets of
 start/end scores are averaged. 
 Second, the training examples are sampled with weight 1/n_segments.
 
-Kaggle public 0.45133.
 """
 
 import collections
