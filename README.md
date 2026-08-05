@@ -11,7 +11,7 @@ Authors: Archi Zhao, Leo Zhou.
 
 The competition data is **not** in this repository. Download `train.jsonl`,
 `val.jsonl` and `test.jsonl` from the Kaggle competition page and put them next
-to whichever script you want to run — every script searches the current
+to whichever script you want to run, every script searches the current
 directory and its subdirectories for `train.jsonl`.
 
 ## Running
@@ -76,7 +76,7 @@ windows with a stride of 128.
 
 Sentence snapping is the change that moved the leaderboard. Gold `passage` and
 `multi` answers cover about 84% of the sentence they sit in, so a span that
-stops short loses recall — and METEOR weights recall nine times more heavily
+stops short loses recall and METEOR weights recall nine times more heavily
 than precision. `phrase` answers cover only 13% of their sentence and are never
 snapped.
 
