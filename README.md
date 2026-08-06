@@ -31,8 +31,7 @@ Task 2 needs a GPU, roughly 50 minutes on a Colab T4. Each script writes its own
 | `T1 (ver 8).py` | tried roberta-large | RoBERTa-large | 0.73291 |
 | `T1 (ver 9).py` | one shared epoch for the whole ensemble | RoBERTa-base | 0.77354 |
 
-V9 is the submission. V3 is the spoiler-type classifier out of the Task 2 v3
-pipeline, so that file is the same script as `task 2 code/task2_v3_rebalanced.py`.
+V9 is the submission.
 
 ## Task 2 (`task 2 code`)
 
