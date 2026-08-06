@@ -2,7 +2,7 @@
 
 Task 1 classifies which kind of spoiler a clickbait post needs (`phrase`,
 `passage`, `multi`). Task 2 produces the spoiler itself, as an extractive QA
-problem. Archi Zhao, Leo Zhou.
+problem.
 
 ## Running
 
