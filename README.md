@@ -17,7 +17,7 @@ python "task 2 code/task2_v4_snap.py"
 Task 2 needs a GPU, roughly 50 minutes on a Colab T4. Each script writes its own
 `prediction_*.csv` in submission format.
 
-## Task 1 (`task 1 code/`)
+## Task 1 (`task 1 code`)
 
 | Version | What changed | Model | Kaggle |
 |---|---|---|---|
@@ -34,7 +34,7 @@ Task 2 needs a GPU, roughly 50 minutes on a Colab T4. Each script writes its own
 V9 is the submission. V3 is the spoiler-type classifier out of the Task 2 v3
 pipeline, so that file is the same script as `task 2 code/task2_v3_rebalanced.py`.
 
-## Task 2 (`task 2 code/`)
+## Task 2 (`task 2 code`)
 
 | Version | What changed | Model | Kaggle |
 |---|---|---|---|
