@@ -14,9 +14,6 @@ pip install torch transformers scikit-learn numpy nltk
 python "task 2 code/task2_v4.py"
 ```
 
-Task 2 needs a GPU, roughly 50 minutes on a Colab T4. Each script writes its own
-`prediction_*.csv` in submission format.
-
 ## Task 1 (`task 1 code`)
 
 | Version | What changed | Model | Kaggle |
