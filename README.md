@@ -11,7 +11,7 @@ page and put them next to the script you want to run.
 
 ```bash
 pip install torch transformers scikit-learn numpy nltk
-python "task 2 code/task2_v4_snap.py"
+python "task 2 code/task2_v4.py"
 ```
 
 Task 2 needs a GPU, roughly 50 minutes on a Colab T4. Each script writes its own
